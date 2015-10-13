@@ -50,7 +50,10 @@
 </li>
 <li>布局框架
 <ul>
-<li><a href="https://github.com/AFNetworking/AFNetworking"></a></li>
+<li><a href="https://github.com/SnapKit/SnapKit">SnapKit</a></li>
+<li><a href="https://github.com/mamaral/Neon">Neon</a></li>
+<li><a href="https://github.com/SnapKit/Masonry">Masonry</a></li>
+<li><a href="https://github.com/PureLayout/PureLayout">PureLayout</a></li>
 </ul>
 </li>
 
