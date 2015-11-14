@@ -64,7 +64,7 @@
 </li>
 <li><a href="https://github.com/radex/SwiftyUserDefaults">SwiftyUserDefaults</a></li>
 <li><a href="https://github.com/honghaoz/Ji">Ji</a> HTML/XML解析库</li>
-
+<li><a href="https://github.com/mac-cain13/R.swift">Ji</a> R.swift</li>
 </ul>
 
 
