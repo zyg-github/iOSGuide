@@ -57,7 +57,13 @@
 <li><a href="https://github.com/PureLayout/PureLayout">PureLayout</a></li>
 </ul>
 </li>
-
+<li><a href="http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/">iOS 保持界面流畅的技巧</a></li>
+<li>界面优化相关的库
+<ul>
+<li><a href="https://github.com/facebook/componentkit">componentkit</a></li>
+<li><a href="https://github.com/facebook/AsyncDisplayKit">AsyncDisplayKit</a></li>
+</ul>
+</li>
 <li>其他
 <ul>
 <li><a href="https://github.com/buzzfeed/mattress">mattress</a> - 离线缓存 Web 浏览内容。使用中，可以分别设置缓存内存及磁盘占用大小。功能非常给力。可惜地是，由于 WKWebView 自身对缓存的管理及限制，目前该库基于 WebView 开发。开发者可以按需选用</li>
