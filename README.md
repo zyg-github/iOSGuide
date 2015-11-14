@@ -63,8 +63,8 @@
 <li><a href="https://github.com/buzzfeed/mattress">mattress</a> - 离线缓存 Web 浏览内容。使用中，可以分别设置缓存内存及磁盘占用大小。功能非常给力。可惜地是，由于 WKWebView 自身对缓存的管理及限制，目前该库基于 WebView 开发。开发者可以按需选用</li>
 </li>
 <li><a href="https://github.com/radex/SwiftyUserDefaults">SwiftyUserDefaults</a></li>
-<li><a href="https://github.com/honghaoz/Ji">Ji</a> HTML/XML解析库</li>
-<li><a href="https://github.com/mac-cain13/R.swift">Ji</a> R.swift</li>
+<li><a href="https://github.com/honghaoz/Ji"> HTML/XML解析库</a></li>
+<li><a href="https://github.com/mac-cain13/R.swift">R.swift</a></li>
 </ul>
 
 
