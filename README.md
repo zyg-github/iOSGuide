@@ -76,7 +76,10 @@
       <li><a href="https://github.com/radex/SwiftyUserDefaults">SwiftyUserDefaults</a></li>
       <li><a href="https://github.com/honghaoz/Ji"> HTML/XML解析库</a></li>
       <li><a href="https://github.com/mac-cain13/R.swift">R.swift</a></li>
+      <li><a href="https://github.com/hustcc/iOS-private-api-checker">iOS私有API检查工具</a></li>
+      
   </ul>
+  </li>
 </ul>
 
 
