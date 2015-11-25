@@ -60,6 +60,12 @@
 
 <li>界面优化相关的库
   <ul>
+    <li><a href="https://github.com/slazyk/Observable-Swift">Observable-Swift</a></li>
+    <li><a href="https://github.com/facebook/KVOController">KVOController</a></li>
+  </ul>
+</li>
+<li>KVO
+  <ul>
     <li><a href="https://github.com/facebook/componentkit">componentkit</a></li>
     <li><a href="https://github.com/facebook/AsyncDisplayKit">AsyncDisplayKit</a></li>
   </ul>
