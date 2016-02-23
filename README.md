@@ -46,6 +46,7 @@
     <li><a href="https://github.com/AFNetworking/AFNetworking">AFNetworking</a></li>
     <li><a href="https://github.com/RestKit/RestKit">RestKit</a>：RestKit是在iOS和OS X上使用和构建RESTful web资源的框架。</li>
     <li><a href="https://github.com/Alamofire/Alamofire"> Swift下精致的HTTP Networking</a></li>
+    <li><a href="https://github.com/spotify/SPTDataLoader">音乐服务商 Spotify 开源了他们自己开发和正在使用的网络请求框架</li>
     <li><a href="https://cocoapods.org/">Cocoapods来进行依赖管理</a></li>
   </ul>
 </li>
